@@ -1,0 +1,4 @@
+rootProject.name = 'lbtutorial'
+
+include 'say-hello'
+include 'user'
